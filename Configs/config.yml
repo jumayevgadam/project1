@@ -1,0 +1,8 @@
+
+
+DB:
+  username: "postgres"
+  host: "localhost"
+  port: "7701"
+  dbname: "Block"
+  sslmode: "disable"
